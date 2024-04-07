@@ -1,0 +1,1 @@
+ /Users/pabasarasamarakoon/test-flutter/weather_app_1/weather_app_2/thermo/weather_app_1/.dart_tool/flutter_build/69343da061885de4df91afef9e6dae1a/native_assets.yaml: 

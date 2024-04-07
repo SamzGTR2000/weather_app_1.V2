@@ -74,11 +74,19 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		TQkN9Tx/8/sD6ZA5S7XgDl5zkHY=
+		R+iF2or4ofSVrSOX0FSB+tGoXao=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		NLQCcZHUXHVDtciVXgIh5fDoJCQ=
+		</data>
+		<key>geolocator_apple_privacy.bundle/Info.plist</key>
+		<data>
+		BBio05gUQ3P9/luk0PH4S1EmPeQ=
+		</data>
+		<key>geolocator_apple_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		KFiVi4mWKmBFkTjfe3H4jsOvLNM=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -207,6 +215,20 @@
 			<key>hash2</key>
 			<data>
 			ogvfZwdVZsGObEeIcyHeir8FGKKDOhnHK4Z8sPgZH8k=
+			</data>
+		</dict>
+		<key>geolocator_apple_privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			D4HInShs2y4cfLXo+cCyvtR7+3mAWZEbsZuZGGmC3R8=
+			</data>
+		</dict>
+		<key>geolocator_apple_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			p+c+xOFN/pYr5bFknUH/y01YGEb8+JJchzbtJ60mdTI=
 			</data>
 		</dict>
 	</dict>
