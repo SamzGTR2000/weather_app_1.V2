@@ -72,7 +72,31 @@ flutter:
   assets:
     - assets/images/thanderstorm/thund.jpeg
     - assets/icons/clouds.png
-    
+    - assets/icons/calender.png
+    - assets/icons/humidity.png
+    - assets/icons/rain.png
+    - assets/icons/temperature.png
+    - assets/icons/time.png
+    - assets/icons/wind.png
+    - assets/icons/windspeed.png
+    - assets/weather/01d.png
+    - assets/weather/02d.png
+    - assets/weather/03d.png
+    - assets/weather/04d.png
+    - assets/weather/09d.png
+    - assets/weather/10d.png
+    - assets/weather/11d.png
+    - assets/weather/13d.png
+    - assets/weather/50d.png
+    - assets/weather/01n.png
+    - assets/weather/02n.png
+    - assets/weather/03n.png
+    - assets/weather/04n.png
+    - assets/weather/09n.png
+    - assets/weather/10n.png
+    - assets/weather/11n.png
+    - assets/weather/13n.png
+    - assets/weather/50ns.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
